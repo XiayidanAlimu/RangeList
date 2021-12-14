@@ -1,0 +1,18 @@
+.App form label{
+    display: block;
+}
+
+.App textarea {
+    width: 600px;
+    height: 400px;
+}
+
+.App select {
+    height: 30px;
+    width: 150px;
+}
+
+.App input {
+    height: 30px;
+    width: 150px;
+}
