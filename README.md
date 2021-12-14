@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is aimed at providing a test environment for an algorithm. It also has unit test powered by jest.
 
 ## Available Scripts
 
@@ -31,9 +32,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### how to test the algorithm?
 
-1. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-2. select a operator in the select menu (add / remove)
-3. enter a number for input named *start*
-4. enter a number for input named *end*
-5. enter button named 'submit'
-6. you are supposed to see the result, and the history.
+1. Install the packages `npm install`
+2. Runs the app in the development mode by `npm start`
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. select a operator in the select menu (add / remove)
+5. enter a number for input named *start*
+6. enter a number for input named *end*
+7. enter button named 'submit'
+8. you are supposed to see the result, and the history.
